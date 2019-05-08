@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20190504_175835.jpg</filename>
+	<path>/Users/branimirakmadza/Desktop/dorm_asl/models/research/object_detection/images/train/IMG_20190504_175835.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>397</width>
+		<height>298</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>181</ymin>
+			<xmax>204</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>
